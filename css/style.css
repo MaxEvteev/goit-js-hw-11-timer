@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.timer {
+ display: flex;
+ justify-content: center;
+ flex-direction: row;
+ background-color: black;
+ color: aliceblue;
+ font-size: 20px;
+ font-weight: 700;
+};
+
+
